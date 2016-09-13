@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "exports": {
+    "ClassLibrary1/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v2.0",
+      "compile": {
+        "bin/Debug/ClassLibrary1.dll": {}
+      },
+      "runtime": {
+        "bin/Debug/ClassLibrary1.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/ClassLibrary1.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    }
+  }
+}
